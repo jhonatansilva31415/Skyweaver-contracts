@@ -20,7 +20,7 @@ Skyweaver assets and market are in production on the Polygon mainnet as of Nov 2
 
 ### 1 Asset Contracts
 
-* [SkyWeaverAssets.sol](https://github.com/horizon-games/Skyweaver-contracts/blob/master/contracts/tokens/SkyweaverAssets.sol): Implementation of [ERC-1155](https://github.com/ethereum/eips/issues/1155) that keeps track of all the users' Skyweaver asset balance and contains all the token functions. Assets can include cards, cosmetics, etc.
+* [SkyWeaverAssets.sol](https://github.com/horizon-games/Skyweaver-contracts/blob/master/src/contracts/tokens/SkyweaverAssets.sol): Implementation of [ERC-1155](https://github.com/ethereum/eips/issues/1155) that keeps track of all the users' Skyweaver asset balance and contains all the token functions. Assets can include cards, cosmetics, etc.
 
 
 ### 2 Asset Supply Manager
